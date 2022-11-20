@@ -1,0 +1,17 @@
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Practic_6.exe
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Practic_6.deps.json
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Practic_6.runtimeconfig.json
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Practic_6.dll
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Practic_6.pdb
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.csproj.AssemblyReference.cache
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.AssemblyInfoInputs.cache
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.AssemblyInfo.cs
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.csproj.CoreCompileInputs.cache
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.csproj.CopyComplete
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.dll
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\refint\Practic_6.dll
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.pdb
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\Practic_6.genruntimeconfig.cache
+C:\Users\dimss\Desktop\6matveev-master\converter6practa\obj\Debug\net6.0\ref\Practic_6.dll
